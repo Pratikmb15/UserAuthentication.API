@@ -1,0 +1,14 @@
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\bin\Debug\net6.0\UserAuth.Data.deps.json
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\bin\Debug\net6.0\UserAuth.Data.runtimeconfig.json
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\bin\Debug\net6.0\UserAuth.Data.dll
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\bin\Debug\net6.0\UserAuth.Data.pdb
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.csproj.AssemblyReference.cache
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.AssemblyInfoInputs.cache
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.AssemblyInfo.cs
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.csproj.CoreCompileInputs.cache
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.dll
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\refint\UserAuth.Data.dll
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.pdb
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\UserAuth.Data.genruntimeconfig.cache
+C:\Users\MILIND\source\repos\UserAuth.API\UserAuth.Data\obj\Debug\net6.0\ref\UserAuth.Data.dll
